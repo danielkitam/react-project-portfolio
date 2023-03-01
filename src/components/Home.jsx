@@ -11,7 +11,7 @@ function Home() {
          justify-center h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl sm:text-7xl font bold
-                 text-white'>I'm a FrontEnd Developper</h2>
+                 text-white'>I'm a Full Stack Developper</h2>
                 <p className='text-gray-500 py-5 max-w-md'>
                     I have 5 years of experience building software.
                     Most of the time, I love to work on web application using
